@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1402474849 source:c:\users\student\desktop\lab 4\bank\accountinfo.cpp
+	"Accountinfo.h"
+
+1402473629 c:\users\student\desktop\lab 4\bank\accountinfo.h
+	<iostream>
+	<string>
+
+1402473629 source:c:\users\student\desktop\lab 4\bank\main.cpp
+	"AccountDatabase.h"
+
+1402474757 c:\users\student\desktop\lab 4\bank\accountdatabase.h
+	"Accountinfo.h"
+
+1402476312 source:c:\users\student\desktop\lab 4\bank\accountdatabase.cpp
+	"Accountdatabase.h"
+
+1402476314 source:i:\bank\accountdatabase.cpp
+	"Accountdatabase.h"
+
+1402474758 i:\bank\accountdatabase.h
+	"Accountinfo.h"
+
+1402473630 i:\bank\accountinfo.h
+	<iostream>
+	<string>
+
+1402474850 source:i:\bank\accountinfo.cpp
+	"Accountinfo.h"
+
+1402473630 source:i:\bank\main.cpp
+	"AccountDatabase.h"
+
+1402476314 source:f:\bank\accountdatabase.cpp
+	"Accountdatabase.h"
+
+1402474758 f:\bank\accountdatabase.h
+	"Accountinfo.h"
+
+1402473630 f:\bank\accountinfo.h
+	<iostream>
+	<string>
+
+1402474850 source:f:\bank\accountinfo.cpp
+	"Accountinfo.h"
+
+1402473630 source:f:\bank\main.cpp
+	"AccountDatabase.h"
+
